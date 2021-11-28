@@ -2,9 +2,9 @@
 
 ## AMyCommand
 
-See: https://gist.github.com/redoishi/46a9eb30991bf6007508f72aba7da89f
-Class to create a command without plugin.yml.
-Included an example
+See: https://gist.github.com/redoishi/46a9eb30991bf6007508f72aba7da89f   
+Class to create a command without plugin.yml.   
+Included an example   
 
 <!--
 **Redoishi/Redoishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
